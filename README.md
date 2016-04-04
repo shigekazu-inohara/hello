@@ -1,2 +1,2 @@
 # hello
-the first repository
+the first repository with some updates
